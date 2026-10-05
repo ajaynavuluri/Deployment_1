@@ -1,7 +1,0 @@
-Required packages:
-
-streamlit
-scikit-learn
-pandas
-numpy
-joblib
